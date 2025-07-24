@@ -69,15 +69,9 @@ I'm a passionate FYSC student with a dream to become a **professional coder** an
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lakshay36170/lakshay36170/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-> To enable the snake animation, generate the SVG using [Platane's Snake Generator](https://github.com/Platane/snk) and push it to the `output` branch.
-
----
+![GitHub Snake](https://github.com/lakshay36170/lakshay36170/blob/output/github-snake.svg)
 
 ## ✍️ Random Dev Quote
 
